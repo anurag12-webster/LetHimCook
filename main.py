@@ -1,6 +1,6 @@
 import google.generativeai as palm
 
-palm.configure(api_key="AIzaSyAFdEa9BTFpfPCbwg9ay850iHYsuTzj2QE")
+palm.configure(api_key="")
 
 
 # driver function 
